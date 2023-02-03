@@ -1,6 +1,6 @@
 # Image-Segmentation-and-Detection
 
-The goal is to calculate the Dice Similarity (DS) Score of skin lesion dataset where M is the segmented lesion mask from Task 1 and M is the ground truth provided in the dataset [here](https://drive.google.com/drive/folders/1VWPGP18jjCaSucbnfN3ALRYAaPQxMPYU) 
+The goal is to calculate the Dice Similarity (DS) Score of skin lesion dataset where M is the segmented lesion mask from Task 1 and M is the ground truth provided in the dataset [here](https://drive.google.com/drive/folders/1VWPGP18jjCaSucbnfN3ALRYAaPQxMPYU).
 
 The equation to calculate DS score is:
 

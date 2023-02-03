@@ -13,4 +13,4 @@ The equation to calculate DS score is:
 ![Screenshot 2023-02-03 132440](https://user-images.githubusercontent.com/101992840/216713606-a78e857f-e19c-433d-b007-86fab400f5ba.png)
 
 ### Results
-To get the segmentation and DS score, run the python files with the dataset. The mean DS score is 0.8 with std. dev of 0.812 which is relatively better considering the data was not completely clean.
+To get the object segmentation, run automated_legion_detector.py and for DS score, run the dice_similarity_score.py with the dataset. The mean DS score is 0.8 with std. dev of 0.812 which is relatively better considering the data was not completely clean.
